@@ -1,0 +1,166 @@
+.h1s{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    
+    text-align: center;
+    color: white;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    
+}
+.p1
+{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 10;
+    color: rgba(255, 255, 255, 0.808);
+    display: block;
+}
+#b1{
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    font-weight: 700;
+    display: inline-block;
+    font-size: 16px;
+    color: aliceblue;
+    margin: 15px 450px;
+    border-radius: 5px;
+    background-color: rgba(255, 69, 44, 0.836);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.p2
+{
+    margin-top: 0px;
+    padding-bottom: 0;
+    color: rgba(0, 0, 0, 0.712);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 10;
+    text-align: center;
+}
+#sec-div-div
+{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.btn
+{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 30px 30px;
+    height: 30;
+    border: 2px solid black;
+    box-sizing: border-box;
+    
+}
+.default {
+    border-color:white;
+    color: rgba(0, 0, 0, 0.74);
+  }
+  
+.default:hover {
+    border-color:red;
+    background: pink;
+    color: red;
+  }
+  #sec-div-div-div
+  {
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  
+  .taka
+  {
+  text-align: center;
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid red;
+  border-color:rgba(0, 0, 0, 0.418);
+  
+    
+  }
+  section{
+    display: flex;
+  }
+  .food
+  {
+    width: 33.33%;
+    height: 300px;
+    margin-left: 10%;
+    background-color:	#F0F8FF;
+  }
+  .shelter
+  {
+    width: 33.33%;
+    background-color: 	#FFE4E1;
+    margin-left: 5%;
+    
+  }
+  .education
+  {
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 10%;
+    background-color: 	#FAEBD7 ;
+    
+  }
+  .fifth-div
+  {
+    margin-top: 60px;
+  }
+  .back
+  {
+    display: inline-block;
+    height: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+
+    background-color:#FAEBD7  ;
+  }
+  #email
+  {
+    height: 35px;
+    background-color: #DCDCDC;
+    border: none;
+  }
+  #sub
+  {
+    height: 35px;
+    border: none;
+    margin-left: -1%;
+    background-color: red;
+  }
+  .ftr
+  {
+    height: 100px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 30px;
+    font-family: Cursive;
+    text-align: center;
+    color: #FA8072;
+    background-color: black;
+
+  }
+  .ftr p{
+    color: white;
+  }
+  .fourth-div{
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+
+  }
